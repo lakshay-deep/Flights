@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Flights</string>
+
+    <string name="description_search">search</string>
+    <string name="description_checkout">checkout</string>
+    <string name="description_bookmark_airport">bookmark airport</string>
+
+    <string name="matches">MATCHES</string>
+    <string name="arrives_at">ARRIVES AT</string>
+    <string name="departs_from">DEPARTS FROM</string>
+    <string name="flights_from">FLIGHTS FROM</string>
+    <string name="no_matches">NO MATCHES</string>
+
+    <string name="no_matches_description">Sorry, there aren\'t
+        any airports matching that search in our database</string>
+    <string name="search_flights">Search flights</string>
 </resources>
